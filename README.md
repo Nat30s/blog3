@@ -62,6 +62,7 @@ I've created a more detailed walkthrough, [**Build A Blog With Jekyll And GitHub
 
 It covers:
 
+
 - A more detailed walkthrough of setting up your Jekyll blog
 - Common issues that you might encounter while using Jekyll
 - Importing from Wordpress, using your own domain name, and blogging in your favorite editor
